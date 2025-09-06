@@ -37,7 +37,7 @@ The system integrates **computer vision, IoT messaging, and hardware control** t
 ---
 
 ## 📷 Picture of setup
-[Photo](https://i.imgur.com/1ZyZ3eJ.png)
+![Photo](https://i.imgur.com/1ZyZ3eJ.png)
 
 ---
 
